@@ -44,6 +44,7 @@ i{
     width: 10px;
     border:none;
     border-radius:300px;
-    background-color: red;
+    background-color: white;
+    mix-blend-mode: difference;
     transition: linear 0.2s;
 }

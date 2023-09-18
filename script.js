@@ -8,10 +8,10 @@ image.addEventListener("dblclick",function(){
 
  setTimeout(function(){
  heart.style.opacity ="0";
- },1000) ;
+ },800) ;
  setTimeout(function(){
    heart.style.scale ="0";
-   },1000) ;
+   },800) ;
 })
  
 body.addEventListener("mousemove",function(dets){

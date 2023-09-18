@@ -36,4 +36,5 @@ i{
     top: 47%;
     right: 47%;
     opacity: 0;
+    transition:all ease 0.3s;
 }
